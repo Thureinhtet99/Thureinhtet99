@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thureinhtet99
+- 👋 Hi, I’m Thureinhtet
 - 👀 I’m interested in  full-stack web developer.
 - 🌱 I’m currently learning font-end development.
 - 💞️ I’m looking to collaborate on local teams and looking long-term job.
