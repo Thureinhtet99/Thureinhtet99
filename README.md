@@ -22,5 +22,3 @@
 
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Thureinhtet99/Thureinhtet99/output/snake.svg" alt="Snake animation" />
