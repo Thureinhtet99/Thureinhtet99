@@ -1,7 +1,6 @@
 <h1 align="center">Hola👋</h1>
-<h3 align="center">A passionate web developer</h3>
 
-- My name is Thurein htet
+- My name is Thurein Htet. I'm a fullstack developer. I can develop web-based applications and currently looking for a job.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
