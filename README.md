@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Thurein Htet</h1>
+<h1 align="center">Hola👋</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **React, Node.js**
-
-- 💬 Ask me about **React, Laravel, Node.js**
-
-- 📫 How to reach me **thureinhtet653@gmail.com**
+- My name is Thurein htet
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
