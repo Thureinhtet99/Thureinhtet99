@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋</h1>
+<h1 align="left">Hola👋</h1>
 
 - My name is Thurein Htet. I'm a fullstack developer. I can develop web-based applications and currently looking for a job.
 
