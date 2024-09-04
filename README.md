@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning MERN stack<br>🎲 Fun fact: .. :p</p>
+<p align="left">📚 I'm currently learning MERN stack<br>🎲 Fun fact: :P</p>
 
 ###
 
