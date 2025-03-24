@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thu Rein Htet</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer with experience in building dynamic and scalable web applications. With experience in both front-end and back-end development, I strive to build seamless user experiences that solve real-world problems.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thureinhtet99" alt="thureinhtet99" /></a> </p>
-
 - 🌱 I’m currently learning **TypeScript**
 
 - 🤝 I’m looking for help with **Remote job**
