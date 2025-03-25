@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thu Rein Htet</h1>
-<h3 align="center">I'm a passionate Full-Stack Developer with experience in building dynamic and scalable web applications. With experience in both front-end and back-end development, I strive to build seamless user experiences that solve real-world problems.</h3>
+<h3 align="center">I'm a passionate full stack developer with experience in building dynamic and scalable web applications. With experience in both front-end and back-end development, I strive to build seamless user experiences that solve real-world problems.</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
