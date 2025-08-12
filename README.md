@@ -54,14 +54,6 @@
 
 ---
 
-### 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thureinhtet99&theme=dark&hide_border=true" alt="Contribution Streak" />
-</p>
-
----
-
 ### 💬 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thureinhtet653@gmail.com)
