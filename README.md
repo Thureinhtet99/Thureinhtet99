@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Thu Rein Htet</h1>
-
 ### 👨‍💻 About Me
 
 - 🌱 Deepening my knowledge in **TypeScript**, **Expo**, and **Next.js**
