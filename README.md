@@ -1,14 +1,14 @@
-### 👨‍💻 About Me
+### About Me
 
-- 🌱 Deepening my knowledge in **TypeScript**, **Expo**, and **Next.js**
-- 💼 Actively seeking **remote developer roles**
-- 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/thureinhtet99/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thureinhtet653@gmail.com)
+- Deepening my knowledge in **TypeScript**, **Expo**, and **Next.js**
+- Actively seeking **remote developer roles**
+- Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/thureinhtet99/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thureinhtet653@gmail.com)
 
-- 🧠 Always exploring new tools to build better software
+- Always exploring new tools to build better software
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠️ Version Control and Development tools
+### Version Control and Development tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -37,13 +37,13 @@
 
 ---
 
-### 🖥️ OS
+### OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thureinhtet99&show_icons=true&theme=radical" alt="GitHub Stats" />
